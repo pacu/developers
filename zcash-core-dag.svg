@@ -858,7 +858,7 @@
 <g id="node47" class="node">
 <title>zcash&#45;hackworks/zcash&#45;test&#45;vectors#22</title>
 <g id="a_node47"><a xlink:href="https://github.com/zcash-hackworks/zcash-test-vectors/issues/22" xlink:title="zcash&#45;hackworks/zcash&#45;test&#45;vectors#22&#10;Implement Poseidon test&#10;vectors" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="1477,-1241.5 1172,-1241.5 1172,-1188.5 1477,-1188.5 1477,-1241.5"/>
+<polygon fill="#fad8c7" stroke="#000000" points="1477,-1241.5 1172,-1241.5 1172,-1188.5 1477,-1188.5 1477,-1241.5"/>
 <text text-anchor="middle" x="1324.5" y="-1226.3" font-family="Times,serif" font-size="14.00" fill="#000000">zcash&#45;hackworks/zcash&#45;test&#45;vectors#22</text>
 <text text-anchor="middle" x="1324.5" y="-1211.3" font-family="Times,serif" font-size="14.00" fill="#000000">Implement Poseidon test</text>
 <text text-anchor="middle" x="1324.5" y="-1196.3" font-family="Times,serif" font-size="14.00" fill="#000000">vectors</text>
@@ -906,7 +906,7 @@
 <g id="node49" class="node">
 <title>zcash&#45;hackworks/zcash&#45;test&#45;vectors#24</title>
 <g id="a_node49"><a xlink:href="https://github.com/zcash-hackworks/zcash-test-vectors/issues/24" xlink:title="zcash&#45;hackworks/zcash&#45;test&#45;vectors#24&#10;Implement Orchard key&#10;components test vectors" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="1818,-1134.5 1513,-1134.5 1513,-1081.5 1818,-1081.5 1818,-1134.5"/>
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="1818,-1134.5 1513,-1134.5 1513,-1081.5 1818,-1081.5 1818,-1134.5"/>
 <text text-anchor="middle" x="1665.5" y="-1119.3" font-family="Times,serif" font-size="14.00" fill="#000000">zcash&#45;hackworks/zcash&#45;test&#45;vectors#24</text>
 <text text-anchor="middle" x="1665.5" y="-1104.3" font-family="Times,serif" font-size="14.00" fill="#000000">Implement Orchard key</text>
 <text text-anchor="middle" x="1665.5" y="-1089.3" font-family="Times,serif" font-size="14.00" fill="#000000">components test vectors</text>
