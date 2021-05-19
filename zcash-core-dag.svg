@@ -1527,7 +1527,7 @@
 <g id="node83" class="node">
 <title>zcash&#45;hackworks/zcash&#45;test&#45;vectors#25</title>
 <g id="a_node83"><a xlink:href="https://github.com/zcash-hackworks/zcash-test-vectors/issues/25" xlink:title="zcash&#45;hackworks/zcash&#45;test&#45;vectors#25&#10;Implement F4Jumble" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="1818,-1262 1513,-1262 1513,-1224 1818,-1224 1818,-1262"/>
+<polygon fill="#fad8c7" stroke="#000000" points="1818,-1262 1513,-1262 1513,-1224 1818,-1224 1818,-1262"/>
 <text text-anchor="middle" x="1665.5" y="-1246.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash&#45;hackworks/zcash&#45;test&#45;vectors#25</text>
 <text text-anchor="middle" x="1665.5" y="-1231.8" font-family="Times,serif" font-size="14.00" fill="#000000">Implement F4Jumble</text>
 </a>
@@ -1543,7 +1543,7 @@
 <g id="node84" class="node">
 <title>zcash/librustzcash#378</title>
 <g id="a_node84"><a xlink:href="https://github.com/zcash/librustzcash/issues/378" xlink:title="zcash/librustzcash#378&#10;Implement F4Jumble" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="2100.5,-1262 1912.5,-1262 1912.5,-1224 2100.5,-1224 2100.5,-1262"/>
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="2100.5,-1262 1912.5,-1262 1912.5,-1224 2100.5,-1224 2100.5,-1262"/>
 <text text-anchor="middle" x="2006.5" y="-1246.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/librustzcash#378</text>
 <text text-anchor="middle" x="2006.5" y="-1231.8" font-family="Times,serif" font-size="14.00" fill="#000000">Implement F4Jumble</text>
 </a>
