@@ -1648,35 +1648,35 @@
 </a>
 </g>
 </g>
-<!-- ZcashFoundation/zebra#2497 -->
+<!-- ZcashFoundation/zebra#2504 -->
 <g id="node106" class="node">
-<title>ZcashFoundation/zebra#2497</title>
-<g id="a_node106"><a xlink:href="https://github.com/ZcashFoundation/zebra/pull/2497" xlink:title="ZcashFoundation/zebra#2497&#10;Reject duplicate Sapling&#10;and Orchard nullifiers" target="_blank">
+<title>ZcashFoundation/zebra#2504</title>
+<g id="a_node106"><a xlink:href="https://github.com/ZcashFoundation/zebra/pull/2504" xlink:title="ZcashFoundation/zebra#2504&#10;Rename the nullifier test&#10;module" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="248,-5064.5 16,-5064.5 16,-5060.5 12,-5060.5 12,-5056.5 16,-5056.5 16,-5019.5 12,-5019.5 12,-5015.5 16,-5015.5 16,-5011.5 248,-5011.5 248,-5064.5"/>
 <polyline fill="none" stroke="#000000" stroke-width="2" points="16,-5060.5 20,-5060.5 20,-5056.5 16,-5056.5 "/>
 <polyline fill="none" stroke="#000000" stroke-width="2" points="16,-5019.5 20,-5019.5 20,-5015.5 16,-5015.5 "/>
-<text text-anchor="middle" x="132" y="-5049.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2497</text>
-<text text-anchor="middle" x="132" y="-5034.3" font-family="Times,serif" font-size="14.00" fill="#000000">Reject duplicate Sapling</text>
-<text text-anchor="middle" x="132" y="-5019.3" font-family="Times,serif" font-size="14.00" fill="#000000">and Orchard nullifiers</text>
+<text text-anchor="middle" x="132" y="-5049.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2504</text>
+<text text-anchor="middle" x="132" y="-5034.3" font-family="Times,serif" font-size="14.00" fill="#000000">Rename the nullifier test</text>
+<text text-anchor="middle" x="132" y="-5019.3" font-family="Times,serif" font-size="14.00" fill="#000000">module</text>
 </a>
 </g>
 </g>
-<!-- ZcashFoundation/zebra#2504 -->
+<!-- ZcashFoundation/zebra#2511 -->
 <g id="node107" class="node">
-<title>ZcashFoundation/zebra#2504</title>
-<g id="a_node107"><a xlink:href="https://github.com/ZcashFoundation/zebra/pull/2504" xlink:title="ZcashFoundation/zebra#2504&#10;Rename the nullifier test&#10;module" target="_blank">
+<title>ZcashFoundation/zebra#2511</title>
+<g id="a_node107"><a xlink:href="https://github.com/ZcashFoundation/zebra/pull/2511" xlink:title="ZcashFoundation/zebra#2511&#10;WIP: Reject UTXO double&#10;spends" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" points="532,-5064.5 300,-5064.5 300,-5060.5 296,-5060.5 296,-5056.5 300,-5056.5 300,-5019.5 296,-5019.5 296,-5015.5 300,-5015.5 300,-5011.5 532,-5011.5 532,-5064.5"/>
 <polyline fill="none" stroke="#000000" points="300,-5060.5 304,-5060.5 304,-5056.5 300,-5056.5 "/>
 <polyline fill="none" stroke="#000000" points="300,-5019.5 304,-5019.5 304,-5015.5 300,-5015.5 "/>
-<text text-anchor="middle" x="416" y="-5049.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2504</text>
-<text text-anchor="middle" x="416" y="-5034.3" font-family="Times,serif" font-size="14.00" fill="#000000">Rename the nullifier test</text>
-<text text-anchor="middle" x="416" y="-5019.3" font-family="Times,serif" font-size="14.00" fill="#000000">module</text>
+<text text-anchor="middle" x="416" y="-5049.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2511</text>
+<text text-anchor="middle" x="416" y="-5034.3" font-family="Times,serif" font-size="14.00" fill="#000000">WIP: Reject UTXO double</text>
+<text text-anchor="middle" x="416" y="-5019.3" font-family="Times,serif" font-size="14.00" fill="#000000">spends</text>
 </a>
 </g>
 </g>
-<!-- ZcashFoundation/zebra#2497&#45;&gt;ZcashFoundation/zebra#2504 -->
+<!-- ZcashFoundation/zebra#2504&#45;&gt;ZcashFoundation/zebra#2511 -->
 <g id="edge66" class="edge">
-<title>ZcashFoundation/zebra#2497&#45;&gt;ZcashFoundation/zebra#2504</title>
+<title>ZcashFoundation/zebra#2504&#45;&gt;ZcashFoundation/zebra#2511</title>
 <path fill="none" stroke="#000000" d="M248.33,-5038C262.02,-5038 276.03,-5038 289.84,-5038"/>
 <polygon fill="#000000" stroke="#000000" points="289.85,-5041.5001 299.85,-5038 289.85,-5034.5001 289.85,-5041.5001"/>
 </g>
