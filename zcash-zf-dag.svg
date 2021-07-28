@@ -343,7 +343,7 @@
 <g id="node23" class="node">
 <title>ZcashFoundation/zebra#2524</title>
 <g id="a_node23"><a xlink:href="https://github.com/ZcashFoundation/zebra/pull/2524" xlink:title="ZcashFoundation/zebra#2524&#10;Update value pools design" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="800,-1281 568,-1281 568,-1277 564,-1277 564,-1273 568,-1273 568,-1251 564,-1251 564,-1247 568,-1247 568,-1243 800,-1243 800,-1281"/>
+<polygon fill="#fad8c7" stroke="#000000" points="800,-1281 568,-1281 568,-1277 564,-1277 564,-1273 568,-1273 568,-1251 564,-1251 564,-1247 568,-1247 568,-1243 800,-1243 800,-1281"/>
 <polyline fill="none" stroke="#000000" points="568,-1277 572,-1277 572,-1273 568,-1273 "/>
 <polyline fill="none" stroke="#000000" points="568,-1251 572,-1251 572,-1247 568,-1247 "/>
 <text text-anchor="middle" x="684" y="-1265.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2524</text>
