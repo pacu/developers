@@ -348,7 +348,7 @@
 <g id="node21" class="node">
 <title>zcash/zcash#5197</title>
 <g id="a_node21"><a xlink:href="https://github.com/zcash/zcash/issues/5197" xlink:title="zcash/zcash#5197&#10;Implement NU5 block&#10;consensus rules" target="_blank">
-<polygon fill="#a6cfff" stroke="#000000" points="1141,-786.5 965,-786.5 965,-733.5 1141,-733.5 1141,-786.5"/>
+<polygon fill="#a6cfff" stroke="#000000" stroke-width="2" points="1141,-786.5 965,-786.5 965,-733.5 1141,-733.5 1141,-786.5"/>
 <text text-anchor="middle" x="1053" y="-771.3" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/zcash#5197</text>
 <text text-anchor="middle" x="1053" y="-756.3" font-family="Times,serif" font-size="14.00" fill="#000000">Implement NU5 block</text>
 <text text-anchor="middle" x="1053" y="-741.3" font-family="Times,serif" font-size="14.00" fill="#000000">consensus rules</text>
@@ -1071,7 +1071,7 @@
 <g id="node62" class="node">
 <title>zcash/zcash#5241</title>
 <g id="a_node62"><a xlink:href="https://github.com/zcash/zcash/pull/5241" xlink:title="zcash/zcash#5241&#10;Consensus: Add check to&#10;ensure that the Orchard&#10;commitment tree is not&#10;overfull after&#10;AppendBundle." target="_blank">
-<polygon fill="#a6cfff" stroke="#000000" points="854,-847 657,-847 657,-843 653,-843 653,-839 657,-839 657,-757 653,-757 653,-753 657,-753 657,-749 854,-749 854,-847"/>
+<polygon fill="#fad8c7" stroke="#000000" points="854,-847 657,-847 657,-843 653,-843 653,-839 657,-839 657,-757 653,-757 653,-753 657,-753 657,-749 854,-749 854,-847"/>
 <polyline fill="none" stroke="#000000" points="657,-843 661,-843 661,-839 657,-839 "/>
 <polyline fill="none" stroke="#000000" points="657,-757 661,-757 661,-753 657,-753 "/>
 <text text-anchor="middle" x="755.5" y="-831.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/zcash#5241</text>
