@@ -963,10 +963,20 @@
 <path fill="none" stroke="#000000" d="M305.17,-813.5C321.67,-813.5 338.11,-813.5 353.67,-813.5"/>
 <polygon fill="#000000" stroke="#000000" points="353.76,-817.0001 363.76,-813.5 353.76,-810.0001 353.76,-817.0001"/>
 </g>
-<!-- zcash/halo2#75 -->
+<!-- zcash/halo2#379 -->
 <g id="node58" class="node">
+<title>zcash/halo2#379</title>
+<g id="a_node58"><a xlink:href="https://github.com/zcash/halo2/issues/379" xlink:title="zcash/halo2#379&#10;Add `ec&#45;gpu` support" target="_blank">
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="239,-1859.5 66,-1859.5 66,-1821.5 239,-1821.5 239,-1859.5"/>
+<text text-anchor="middle" x="152.5" y="-1844.3" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#379</text>
+<text text-anchor="middle" x="152.5" y="-1829.3" font-family="Times,serif" font-size="14.00" fill="#000000">Add `ec&#45;gpu` support</text>
+</a>
+</g>
+</g>
+<!-- zcash/halo2#75 -->
+<g id="node59" class="node">
 <title>zcash/halo2#75</title>
-<g id="a_node58"><a xlink:href="https://github.com/zcash/halo2/issues/75" xlink:title="zcash/halo2#75&#10;Implement support for&#10;recursion" target="_blank">
+<g id="a_node59"><a xlink:href="https://github.com/zcash/halo2/issues/75" xlink:title="zcash/halo2#75&#10;Implement support for&#10;recursion" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" points="1044.5,-2035 865.5,-2035 865.5,-1982 1044.5,-1982 1044.5,-2035"/>
 <text text-anchor="middle" x="955" y="-2019.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#75</text>
 <text text-anchor="middle" x="955" y="-2004.8" font-family="Times,serif" font-size="14.00" fill="#000000">Implement support for</text>
@@ -975,9 +985,9 @@
 </g>
 </g>
 <!-- zcash/halo2#251 -->
-<g id="node59" class="node">
+<g id="node60" class="node">
 <title>zcash/halo2#251</title>
-<g id="a_node59"><a xlink:href="https://github.com/zcash/halo2/issues/251" xlink:title="zcash/halo2#251&#10;Implement user&#45;facing API&#10;for recursive proving" target="_blank">
+<g id="a_node60"><a xlink:href="https://github.com/zcash/halo2/issues/251" xlink:title="zcash/halo2#251&#10;Implement user&#45;facing API&#10;for recursive proving" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" points="1314.5,-2035 1104.5,-2035 1104.5,-1982 1314.5,-1982 1314.5,-2035"/>
 <text text-anchor="middle" x="1209.5" y="-2019.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#251</text>
 <text text-anchor="middle" x="1209.5" y="-2004.8" font-family="Times,serif" font-size="14.00" fill="#000000">Implement user&#45;facing API</text>
@@ -992,9 +1002,9 @@
 <polygon fill="#000000" stroke="#000000" points="1094.5,-2012.0001 1104.5,-2008.5 1094.5,-2005.0001 1094.5,-2012.0001"/>
 </g>
 <!-- zcash/halo2#79 -->
-<g id="node60" class="node">
+<g id="node61" class="node">
 <title>zcash/halo2#79</title>
-<g id="a_node60"><a xlink:href="https://github.com/zcash/halo2/issues/79" xlink:title="zcash/halo2#79&#10;Migrate Rescue and&#10;Poseidon gadgets to&#10;algebraic hash&#10;abstraction" target="_blank">
+<g id="a_node61"><a xlink:href="https://github.com/zcash/halo2/issues/79" xlink:title="zcash/halo2#79&#10;Migrate Rescue and&#10;Poseidon gadgets to&#10;algebraic hash&#10;abstraction" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" points="783,-2251 622,-2251 622,-2168 783,-2168 783,-2251"/>
 <text text-anchor="middle" x="702.5" y="-2235.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#79</text>
 <text text-anchor="middle" x="702.5" y="-2220.8" font-family="Times,serif" font-size="14.00" fill="#000000">Migrate Rescue and</text>
@@ -1005,9 +1015,9 @@
 </g>
 </g>
 <!-- zcash/halo2#78 -->
-<g id="node61" class="node">
+<g id="node62" class="node">
 <title>zcash/halo2#78</title>
-<g id="a_node61"><a xlink:href="https://github.com/zcash/halo2/issues/78" xlink:title="zcash/halo2#78&#10;Implement algebraic hash&#10;/ random oracle&#10;abstraction gadget" target="_blank">
+<g id="a_node62"><a xlink:href="https://github.com/zcash/halo2/issues/78" xlink:title="zcash/halo2#78&#10;Implement algebraic hash&#10;/ random oracle&#10;abstraction gadget" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="552,-2243.5 348,-2243.5 348,-2175.5 552,-2175.5 552,-2243.5"/>
 <text text-anchor="middle" x="450" y="-2228.3" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#78</text>
 <text text-anchor="middle" x="450" y="-2213.3" font-family="Times,serif" font-size="14.00" fill="#000000">Implement algebraic hash</text>
@@ -1023,9 +1033,9 @@
 <polygon fill="#000000" stroke="#000000" points="611.72,-2213.0001 621.72,-2209.5 611.72,-2206.0001 611.72,-2213.0001"/>
 </g>
 <!-- zcash/halo2#250 -->
-<g id="node62" class="node">
+<g id="node63" class="node">
 <title>zcash/halo2#250</title>
-<g id="a_node62"><a xlink:href="https://github.com/zcash/halo2/issues/250" xlink:title="zcash/halo2#250&#10;Implement the recursive&#10;verifier circuit" target="_blank">
+<g id="a_node63"><a xlink:href="https://github.com/zcash/halo2/issues/250" xlink:title="zcash/halo2#250&#10;Implement the recursive&#10;verifier circuit" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" points="799.5,-2035 605.5,-2035 605.5,-1982 799.5,-1982 799.5,-2035"/>
 <text text-anchor="middle" x="702.5" y="-2019.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#250</text>
 <text text-anchor="middle" x="702.5" y="-2004.8" font-family="Times,serif" font-size="14.00" fill="#000000">Implement the recursive</text>
@@ -1046,9 +1056,9 @@
 <polygon fill="#000000" stroke="#000000" points="855.24,-2012.0001 865.24,-2008.5 855.24,-2005.0001 855.24,-2012.0001"/>
 </g>
 <!-- zcash/halo2#57 -->
-<g id="node63" class="node">
+<g id="node64" class="node">
 <title>zcash/halo2#57</title>
-<g id="a_node63"><a xlink:href="https://github.com/zcash/halo2/issues/57" xlink:title="zcash/halo2#57&#10;Remove unused&#10;fixed_values from&#10;ProvingKey" target="_blank">
+<g id="a_node64"><a xlink:href="https://github.com/zcash/halo2/issues/57" xlink:title="zcash/halo2#57&#10;Remove unused&#10;fixed_values from&#10;ProvingKey" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="224,-2078.5 81,-2078.5 81,-2010.5 224,-2010.5 224,-2078.5"/>
 <text text-anchor="middle" x="152.5" y="-2063.3" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#57</text>
 <text text-anchor="middle" x="152.5" y="-2048.3" font-family="Times,serif" font-size="14.00" fill="#000000">Remove unused</text>
@@ -1058,9 +1068,9 @@
 </g>
 </g>
 <!-- zcash/halo2#82 -->
-<g id="node64" class="node">
+<g id="node65" class="node">
 <title>zcash/halo2#82</title>
-<g id="a_node64"><a xlink:href="https://github.com/zcash/halo2/issues/82" xlink:title="zcash/halo2#82&#10;Consider not sampling&#10;beta and gamma if there&#10;are no permutations or&#10;lookups" target="_blank">
+<g id="a_node65"><a xlink:href="https://github.com/zcash/halo2/issues/82" xlink:title="zcash/halo2#82&#10;Consider not sampling&#10;beta and gamma if there&#10;are no permutations or&#10;lookups" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="249,-2180 56,-2180 56,-2097 249,-2097 249,-2180"/>
 <text text-anchor="middle" x="152.5" y="-2164.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#82</text>
 <text text-anchor="middle" x="152.5" y="-2149.8" font-family="Times,serif" font-size="14.00" fill="#000000">Consider not sampling</text>
@@ -1071,9 +1081,9 @@
 </g>
 </g>
 <!-- zcash/halo2#248 -->
-<g id="node65" class="node">
+<g id="node66" class="node">
 <title>zcash/halo2#248</title>
-<g id="a_node65"><a xlink:href="https://github.com/zcash/halo2/issues/248" xlink:title="zcash/halo2#248&#10;Implement endoscaling in&#10;the circuit" target="_blank">
+<g id="a_node66"><a xlink:href="https://github.com/zcash/halo2/issues/248" xlink:title="zcash/halo2#248&#10;Implement endoscaling in&#10;the circuit" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="551.5,-2157 348.5,-2157 348.5,-2104 551.5,-2104 551.5,-2157"/>
 <text text-anchor="middle" x="450" y="-2141.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#248</text>
 <text text-anchor="middle" x="450" y="-2126.8" font-family="Times,serif" font-size="14.00" fill="#000000">Implement endoscaling in</text>
@@ -1088,9 +1098,9 @@
 <polygon fill="#000000" stroke="#000000" points="657.1278,-2043.4036 663.58,-2035 653.2955,-2037.5457 657.1278,-2043.4036"/>
 </g>
 <!-- zcash/halo2#249 -->
-<g id="node66" class="node">
+<g id="node67" class="node">
 <title>zcash/halo2#249</title>
-<g id="a_node66"><a xlink:href="https://github.com/zcash/halo2/issues/249" xlink:title="zcash/halo2#249&#10;Implement circuit logic&#10;for handling public&#10;inputs" target="_blank">
+<g id="a_node67"><a xlink:href="https://github.com/zcash/halo2/issues/249" xlink:title="zcash/halo2#249&#10;Implement circuit logic&#10;for handling public&#10;inputs" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="542.5,-2085.5 357.5,-2085.5 357.5,-2017.5 542.5,-2017.5 542.5,-2085.5"/>
 <text text-anchor="middle" x="450" y="-2070.3" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#249</text>
 <text text-anchor="middle" x="450" y="-2055.3" font-family="Times,serif" font-size="14.00" fill="#000000">Implement circuit logic</text>
@@ -1106,9 +1116,9 @@
 <polygon fill="#000000" stroke="#000000" points="595.9707,-2030.195 605.26,-2025.1 594.8209,-2023.29 595.9707,-2030.195"/>
 </g>
 <!-- zcash/halo2#246 -->
-<g id="node67" class="node">
+<g id="node68" class="node">
 <title>zcash/halo2#246</title>
-<g id="a_node67"><a xlink:href="https://github.com/zcash/halo2/issues/246" xlink:title="zcash/halo2#246&#10;Create recursive proof&#10;structures" target="_blank">
+<g id="a_node68"><a xlink:href="https://github.com/zcash/halo2/issues/246" xlink:title="zcash/halo2#246&#10;Create recursive proof&#10;structures" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="242,-1992 63,-1992 63,-1939 242,-1939 242,-1992"/>
 <text text-anchor="middle" x="152.5" y="-1976.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#246</text>
 <text text-anchor="middle" x="152.5" y="-1961.8" font-family="Times,serif" font-size="14.00" fill="#000000">Create recursive proof</text>
@@ -1117,9 +1127,9 @@
 </g>
 </g>
 <!-- zcash/halo2#247 -->
-<g id="node68" class="node">
+<g id="node69" class="node">
 <title>zcash/halo2#247</title>
-<g id="a_node68"><a xlink:href="https://github.com/zcash/halo2/issues/247" xlink:title="zcash/halo2#247&#10;Implement underlying&#10;scaffolding for the&#10;recursive circuit" target="_blank">
+<g id="a_node69"><a xlink:href="https://github.com/zcash/halo2/issues/247" xlink:title="zcash/halo2#247&#10;Implement underlying&#10;scaffolding for the&#10;recursive circuit" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" points="538,-1999.5 362,-1999.5 362,-1931.5 538,-1931.5 538,-1999.5"/>
 <text text-anchor="middle" x="450" y="-1984.3" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#247</text>
 <text text-anchor="middle" x="450" y="-1969.3" font-family="Times,serif" font-size="14.00" fill="#000000">Implement underlying</text>
@@ -1141,9 +1151,9 @@
 <polygon fill="#000000" stroke="#000000" points="594.741,-1993.6517 605.19,-1991.9 595.9292,-1986.7533 594.741,-1993.6517"/>
 </g>
 <!-- zcash/halo2#245 -->
-<g id="node69" class="node">
+<g id="node70" class="node">
 <title>zcash/halo2#245</title>
-<g id="a_node69"><a xlink:href="https://github.com/zcash/halo2/issues/245" xlink:title="zcash/halo2#245&#10;Remove the need to&#10;multiply by powers of x^n&#10;in verifier" target="_blank">
+<g id="a_node70"><a xlink:href="https://github.com/zcash/halo2/issues/245" xlink:title="zcash/halo2#245&#10;Remove the need to&#10;multiply by powers of x^n&#10;in verifier" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="553,-1913.5 347,-1913.5 347,-1845.5 553,-1845.5 553,-1913.5"/>
 <text text-anchor="middle" x="450" y="-1898.3" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#245</text>
 <text text-anchor="middle" x="450" y="-1883.3" font-family="Times,serif" font-size="14.00" fill="#000000">Remove the need to</text>
@@ -1159,9 +1169,9 @@
 <polygon fill="#000000" stroke="#000000" points="651.7348,-1979.4247 662.06,-1981.8 655.4697,-1973.5043 651.7348,-1979.4247"/>
 </g>
 <!-- zcash/halo2#210 -->
-<g id="node70" class="node">
+<g id="node71" class="node">
 <title>zcash/halo2#210</title>
-<g id="a_node70"><a xlink:href="https://github.com/zcash/halo2/issues/210" xlink:title="zcash/halo2#210&#10;Make multiopen&#10;point_index_map dependent&#10;only on the rotation" target="_blank">
+<g id="a_node71"><a xlink:href="https://github.com/zcash/halo2/issues/210" xlink:title="zcash/halo2#210&#10;Make multiopen&#10;point_index_map dependent&#10;only on the rotation" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="559,-1827.5 341,-1827.5 341,-1759.5 559,-1759.5 559,-1827.5"/>
 <text text-anchor="middle" x="450" y="-1812.3" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#210</text>
 <text text-anchor="middle" x="450" y="-1797.3" font-family="Times,serif" font-size="14.00" fill="#000000">Make multiopen</text>
@@ -1177,9 +1187,9 @@
 <polygon fill="#000000" stroke="#000000" points="678.0981,-1975.4196 686.48,-1981.9 683.9688,-1971.6071 678.0981,-1975.4196"/>
 </g>
 <!-- zcash/halo2#312 -->
-<g id="node71" class="node">
+<g id="node72" class="node">
 <title>zcash/halo2#312</title>
-<g id="a_node71"><a xlink:href="https://github.com/zcash/halo2/issues/312" xlink:title="zcash/halo2#312&#10;[Book] Document gadget&#10;API" target="_blank">
+<g id="a_node72"><a xlink:href="https://github.com/zcash/halo2/issues/312" xlink:title="zcash/halo2#312&#10;[Book] Document gadget&#10;API" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="250,-2251 55,-2251 55,-2198 250,-2198 250,-2251"/>
 <text text-anchor="middle" x="152.5" y="-2235.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/halo2#312</text>
 <text text-anchor="middle" x="152.5" y="-2220.8" font-family="Times,serif" font-size="14.00" fill="#000000">[Book] Document gadget</text>
