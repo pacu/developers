@@ -1005,12 +1005,12 @@
 <!-- ZcashFoundation/zebra#3291 -->
 <g id="node63" class="node open">
 <title>ZcashFoundation/zebra#3291</title>
-<g id="a_node63"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/3291" xlink:title="ZcashFoundation/zebra#3291&#10;Update Zebra to use the&#10;new v5 transaction script&#10;verification API" target="_blank">
+<g id="a_node63"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/3291" xlink:title="ZcashFoundation/zebra#3291&#10;Add a new v5 transaction&#10;script verification API&#10;to zcash_script and Zebra" target="_blank">
 <polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="232,-1075 0,-1075 0,-1007 232,-1007 232,-1075"/>
 <text text-anchor="middle" x="116" y="-1059.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#3291</text>
-<text text-anchor="middle" x="116" y="-1044.8" font-family="Times,serif" font-size="14.00" fill="#000000">Update Zebra to use the</text>
-<text text-anchor="middle" x="116" y="-1029.8" font-family="Times,serif" font-size="14.00" fill="#000000">new v5 transaction script</text>
-<text text-anchor="middle" x="116" y="-1014.8" font-family="Times,serif" font-size="14.00" fill="#000000">verification API</text>
+<text text-anchor="middle" x="116" y="-1044.8" font-family="Times,serif" font-size="14.00" fill="#000000">Add a new v5 transaction</text>
+<text text-anchor="middle" x="116" y="-1029.8" font-family="Times,serif" font-size="14.00" fill="#000000">script verification API</text>
+<text text-anchor="middle" x="116" y="-1014.8" font-family="Times,serif" font-size="14.00" fill="#000000">to zcash_script and Zebra</text>
 </a>
 </g>
 </g>
