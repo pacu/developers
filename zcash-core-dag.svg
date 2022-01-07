@@ -833,7 +833,7 @@
 <g id="node49" class="node committed">
 <title>zcash/librustzcash#473</title>
 <g id="a_node49"><a xlink:href="https://github.com/zcash/librustzcash/issues/473" xlink:title="zcash/librustzcash#473&#10;ZIP 244: Implement&#10;changes to bring its&#10;transparent semantics&#10;closer to BIP 341" target="_blank">
-<polygon fill="#a6cfff" stroke="#000000" points="1665.5,-1672 1477.5,-1672 1477.5,-1589 1665.5,-1589 1665.5,-1672"/>
+<polygon fill="#a6cfff" stroke="#000000" stroke-width="2" points="1665.5,-1672 1477.5,-1672 1477.5,-1589 1665.5,-1589 1665.5,-1672"/>
 <text text-anchor="middle" x="1571.5" y="-1656.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/librustzcash#473</text>
 <text text-anchor="middle" x="1571.5" y="-1641.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZIP 244: Implement</text>
 <text text-anchor="middle" x="1571.5" y="-1626.8" font-family="Times,serif" font-size="14.00" fill="#000000">changes to bring its</text>
@@ -1119,10 +1119,10 @@
 </g>
 </g>
 <!-- zcash&#45;hackworks/zcash&#45;test&#45;vectors#57 -->
-<g id="node65" class="node committed">
+<g id="node65" class="node closed">
 <title>zcash&#45;hackworks/zcash&#45;test&#45;vectors#57</title>
 <g id="a_node65"><a xlink:href="https://github.com/zcash-hackworks/zcash-test-vectors/issues/57" xlink:title="zcash&#45;hackworks/zcash&#45;test&#45;vectors#57&#10;ZIP 244: Implement&#10;changes to bring its&#10;transparent semantics&#10;closer to BIP 341" target="_blank">
-<polygon fill="#a6cfff" stroke="#000000" points="1426,-1672 1121,-1672 1121,-1589 1426,-1589 1426,-1672"/>
+<polygon fill="#fad8c7" stroke="#000000" points="1426,-1672 1121,-1672 1121,-1589 1426,-1589 1426,-1672"/>
 <text text-anchor="middle" x="1273.5" y="-1656.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash&#45;hackworks/zcash&#45;test&#45;vectors#57</text>
 <text text-anchor="middle" x="1273.5" y="-1641.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZIP 244: Implement</text>
 <text text-anchor="middle" x="1273.5" y="-1626.8" font-family="Times,serif" font-size="14.00" fill="#000000">changes to bring its</text>
