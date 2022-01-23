@@ -1036,10 +1036,10 @@
 <polygon fill="#000000" stroke="#000000" points="1300.1501,-1869.9738 1309.8,-1865.6 1299.5288,-1863.0015 1300.1501,-1869.9738"/>
 </g>
 <!-- zcash/librustzcash#475 -->
-<g id="node64" class="node open">
+<g id="node64" class="node closed">
 <title>zcash/librustzcash#475</title>
 <g id="a_node64"><a xlink:href="https://github.com/zcash/librustzcash/pull/475" xlink:title="zcash/librustzcash#475&#10;Derive Sapling internal&#10;keys." target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="1507,-1670 1319,-1670 1319,-1666 1315,-1666 1315,-1662 1319,-1662 1319,-1625 1315,-1625 1315,-1621 1319,-1621 1319,-1617 1507,-1617 1507,-1670"/>
+<polygon fill="#fad8c7" stroke="#000000" points="1507,-1670 1319,-1670 1319,-1666 1315,-1666 1315,-1662 1319,-1662 1319,-1625 1315,-1625 1315,-1621 1319,-1621 1319,-1617 1507,-1617 1507,-1670"/>
 <polyline fill="none" stroke="#000000" points="1319,-1666 1323,-1666 1323,-1662 1319,-1662 "/>
 <polyline fill="none" stroke="#000000" points="1319,-1625 1323,-1625 1323,-1621 1319,-1621 "/>
 <text text-anchor="middle" x="1413" y="-1654.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/librustzcash#475</text>
@@ -1055,10 +1055,10 @@
 <polygon fill="#000000" stroke="#000000" points="1554.3,-1647.0001 1564.3,-1643.5 1554.3,-1640.0001 1554.3,-1647.0001"/>
 </g>
 <!-- zcash/librustzcash#480 -->
-<g id="node65" class="node committed">
+<g id="node65" class="node closed">
 <title>zcash/librustzcash#480</title>
 <g id="a_node65"><a xlink:href="https://github.com/zcash/librustzcash/pull/480" xlink:title="zcash/librustzcash#480&#10;[ZIP 316] Transparent&#10;internal and external ovk" target="_blank">
-<polygon fill="#a6cfff" stroke="#000000" points="1217,-1500 1020,-1500 1020,-1496 1016,-1496 1016,-1492 1020,-1492 1020,-1455 1016,-1455 1016,-1451 1020,-1451 1020,-1447 1217,-1447 1217,-1500"/>
+<polygon fill="#fad8c7" stroke="#000000" points="1217,-1500 1020,-1500 1020,-1496 1016,-1496 1016,-1492 1020,-1492 1020,-1455 1016,-1455 1016,-1451 1020,-1451 1020,-1447 1217,-1447 1217,-1500"/>
 <polyline fill="none" stroke="#000000" points="1020,-1496 1024,-1496 1024,-1492 1020,-1492 "/>
 <polyline fill="none" stroke="#000000" points="1020,-1455 1024,-1455 1024,-1451 1020,-1451 "/>
 <text text-anchor="middle" x="1118.5" y="-1484.8" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/librustzcash#480</text>
@@ -1071,9 +1071,9 @@
 <g id="node66" class="node open">
 <title>zcash/zcash#5470</title>
 <g id="a_node66"><a xlink:href="https://github.com/zcash/zcash/pull/5470" xlink:title="zcash/zcash#5470&#10;ZIP 316: Transparent ovk" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="1513.5,-1587.5 1312.5,-1587.5 1312.5,-1583.5 1308.5,-1583.5 1308.5,-1579.5 1312.5,-1579.5 1312.5,-1557.5 1308.5,-1557.5 1308.5,-1553.5 1312.5,-1553.5 1312.5,-1549.5 1513.5,-1549.5 1513.5,-1587.5"/>
-<polyline fill="none" stroke="#000000" points="1312.5,-1583.5 1316.5,-1583.5 1316.5,-1579.5 1312.5,-1579.5 "/>
-<polyline fill="none" stroke="#000000" points="1312.5,-1557.5 1316.5,-1557.5 1316.5,-1553.5 1312.5,-1553.5 "/>
+<polygon fill="#c2e0c6" stroke="#000000" stroke-width="2" points="1513.5,-1587.5 1312.5,-1587.5 1312.5,-1583.5 1308.5,-1583.5 1308.5,-1579.5 1312.5,-1579.5 1312.5,-1557.5 1308.5,-1557.5 1308.5,-1553.5 1312.5,-1553.5 1312.5,-1549.5 1513.5,-1549.5 1513.5,-1587.5"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" points="1312.5,-1583.5 1316.5,-1583.5 1316.5,-1579.5 1312.5,-1579.5 "/>
+<polyline fill="none" stroke="#000000" stroke-width="2" points="1312.5,-1557.5 1316.5,-1557.5 1316.5,-1553.5 1312.5,-1553.5 "/>
 <text text-anchor="middle" x="1413" y="-1572.3" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/zcash#5470</text>
 <text text-anchor="middle" x="1413" y="-1557.3" font-family="Times,serif" font-size="14.00" fill="#000000">ZIP 316: Transparent ovk</text>
 </a>
