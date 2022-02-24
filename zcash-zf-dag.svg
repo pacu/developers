@@ -1536,10 +1536,10 @@
 </g>
 </g>
 <!-- ZcashFoundation/zebra#2390 -->
-<g id="node103" class="node open">
+<g id="node103" class="node closed">
 <title>ZcashFoundation/zebra#2390</title>
 <g id="a_node103"><a xlink:href="https://github.com/ZcashFoundation/zebra/issues/2390" xlink:title="ZcashFoundation/zebra#2390&#10;Fix tasks spawned by&#10;`tower_batch::Batch` only&#10;being alive during one&#10;test execution" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="510,-4875 278,-4875 278,-4792 510,-4792 510,-4875"/>
+<polygon fill="#fad8c7" stroke="#000000" points="510,-4875 278,-4875 278,-4792 510,-4792 510,-4875"/>
 <text text-anchor="middle" x="394" y="-4859.8" font-family="Times,serif" font-size="14.00" fill="#000000">ZcashFoundation/zebra#2390</text>
 <text text-anchor="middle" x="394" y="-4844.8" font-family="Times,serif" font-size="14.00" fill="#000000">Fix tasks spawned by</text>
 <text text-anchor="middle" x="394" y="-4829.8" font-family="Times,serif" font-size="14.00" fill="#000000">`tower_batch::Batch` only</text>
