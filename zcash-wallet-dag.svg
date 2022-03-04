@@ -609,10 +609,10 @@
 </g>
 </g>
 <!-- zcash/ZcashLightClientKit#344 -->
-<g id="node41" class="node open">
+<g id="node41" class="node closed">
 <title>zcash/ZcashLightClientKit#344</title>
 <g id="a_node41"><a xlink:href="https://github.com/zcash/ZcashLightClientKit/issues/344" xlink:title="zcash/ZcashLightClientKit#344&#10;release 0.13.0&#45;beta.1" target="_blank">
-<polygon fill="#c2e0c6" stroke="#000000" points="874,-1932.5 628,-1932.5 628,-1894.5 874,-1894.5 874,-1932.5"/>
+<polygon fill="#fad8c7" stroke="#000000" points="874,-1932.5 628,-1932.5 628,-1894.5 874,-1894.5 874,-1932.5"/>
 <text text-anchor="middle" x="751" y="-1917.3" font-family="Times,serif" font-size="14.00" fill="#000000">zcash/ZcashLightClientKit#344</text>
 <text text-anchor="middle" x="751" y="-1902.3" font-family="Times,serif" font-size="14.00" fill="#000000">release 0.13.0&#45;beta.1</text>
 </a>
